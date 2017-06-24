@@ -42,7 +42,7 @@ disqus:
 comments: true
 
 # Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
-isso: ''
+isso: https://f3lixl.github.io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
